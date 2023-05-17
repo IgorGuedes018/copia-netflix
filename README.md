@@ -1,5 +1,7 @@
-# copia-netflix
+## Copia-Netflix
 
-- Copia da Netflix, projeto da semana front-end, oferecido pela Codi Academy
+Este repositório contém uma cópia do projeto da semana front-end da Codi Academy, inspirado na interface da Netflix.
 
-- Pages: https://igorguedes018.github.io/copia-netflix/
+## Páginas
+
+Acesse a página do projeto [aqui](https://igorguedes018.github.io/copia-netflix/).
